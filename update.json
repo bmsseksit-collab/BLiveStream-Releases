@@ -1,7 +1,7 @@
 {
   "version": "1.0.7",
-  "revision": 1,
-  "downloadUrl": "",
-  "sha256": "",
-  "notes": "BLiveStream current release"
+  "revision": 2,
+  "downloadUrl": "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.7-rev2/BLiveStream_Setup_1.0.7_rev2.exe",
+  "sha256": "19BFE25DADA9851A02F081864A5539A390598694E97B81E80D903E0F7FA35903",
+  "notes": "ปรับปรุง BLiveStream และเพิ่มระบบอัปเดต"
 }
