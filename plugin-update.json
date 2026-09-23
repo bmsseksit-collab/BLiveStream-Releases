@@ -1,0 +1,9 @@
+{
+    "version":  "1.0.3",
+    "revision":  2,
+    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/plugin-v1.0.3-rev2/BLiveStreamPlugin-1.0.3-rev2.jar",
+    "sha256":  "6E3DE6282128C95A7320171B55245A95D222848661BE9AD310BC76AF041CEB65",
+    "minecraftMin":  "1.21.1",
+    "minecraftMax":  "26.3",
+    "notes":  "Adds GET /version and revision metadata for independent Plugin updates. Gameplay and Lightning are unchanged."
+}
