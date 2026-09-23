@@ -1,7 +1,7 @@
 {
     "version":  "1.0.8",
-    "revision":  4,
-    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.8-rev4/BLiveStream_Setup_1.0.8.exe",
-    "sha256":  "88A2E34834CE520AC437E6CA7353D023853E7CC4EED25B4628755CB863986C0D",
-    "notes":  "BLiveStream 1.0.8 rev4 - Independent Minecraft Plugin updater, Plugin update notifications, latest Plugin download with SHA-256 verification and bundled fallback."
+    "revision":  5,
+    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.8-rev5/BLiveStream_Setup_1.0.8.exe",
+    "sha256":  "3744FC0C3963C9A5CEE99463578B67A7DCE559FE9048B5B75FAD6B527F77E420",
+    "notes":  "BLiveStream 1.0.8 rev5 - Header status layout and spacing improvements."
 }
