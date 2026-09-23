@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "revision": 3,
-  "downloadUrl": "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.7-rev3/BLiveStream_Setup_1.0.7_rev3.exe",
-  "sha256": "BC720D068AF83535325DD378BCD81876B36EC00C09812F239F55A89EDF97B189",
-  "notes": "ปรับปรุง BLiveStream และเพิ่มระบบดาวน์โหลด Plugin"
+    "version":  "1.0.8",
+    "revision":  1,
+    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.8-rev1/BLiveStream_Setup_1.0.8.exe",
+    "sha256":  "E360CF18CA3ADD082823711F257FD72266692EA3FB0393B94608A4CF025A148C",
+    "notes":  "BLiveStream 1.0.8 rev1 - UI redesign, overlay improvements, Local Overlay support, bundled Minecraft Plugin 1.0.1, and installer improvements."
 }
