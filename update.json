@@ -1,7 +1,7 @@
 {
     "version":  "1.0.8",
-    "revision":  2,
-    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.8-rev2/BLiveStream_Setup_1.0.8.exe",
-    "sha256":  "6B58B60FC44C0273ACA72F9DD75C6DA254DF2F1AFDB4DB4240556A9411541BF8",
-    "notes":  "BLiveStream 1.0.8 rev2 - Minecraft 1.21.1–26.3 compatibility, BLiveStreamPlugin 1.0.2, configurable Fire/Sand/TNT Rain actions, End Portal Frame fix, and updated Support Items."
+    "revision":  3,
+    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.8-rev3/BLiveStream_Setup_1.0.8.exe",
+    "sha256":  "37E16E5CAFB6889B2F8625AB3CEBB1F75CAD2C4AD4C553DBD88B67814C1138AF",
+    "notes":  "BLiveStream 1.0.8 rev3 - Lightning timing and damage fix, BLiveStreamPlugin 1.0.3, Minecraft 1.21.1–26.3 compatibility, and action improvements."
 }
