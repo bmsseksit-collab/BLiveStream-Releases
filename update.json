@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.8",
-    "revision":  5,
-    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.8-rev5/BLiveStream_Setup_1.0.8.exe",
-    "sha256":  "3744FC0C3963C9A5CEE99463578B67A7DCE559FE9048B5B75FAD6B527F77E420",
-    "notes":  "BLiveStream 1.0.8 rev5 - Header status layout and spacing improvements."
+    "version":  "1.0.9",
+    "revision":  1,
+    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/v1.0.9-rev1/BLiveStream_Setup_1.0.9.exe",
+    "sha256":  "D00B4BB60A451215414DA8D2C052437059AC915BC37B9A8256FC0DC790D00563",
+    "notes":  "Added Torpedo Rain and Random Teleport; added 39 new Gift assets/catalog entries; improved Gift matching safety; reorganized Action list; improved Live Preview action visibility."
 }

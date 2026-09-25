@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.3",
-    "revision":  2,
-    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/plugin-v1.0.3-rev2/BLiveStreamPlugin-1.0.3-rev2.jar",
-    "sha256":  "6E3DE6282128C95A7320171B55245A95D222848661BE9AD310BC76AF041CEB65",
+    "version":  "1.0.4",
+    "revision":  1,
+    "downloadUrl":  "https://github.com/bmsseksit-collab/BLiveStream-Releases/releases/download/plugin-v1.0.4-rev1/BLiveStreamPlugin-1.0.4-rev1.jar",
+    "sha256":  "F5778FC373302B0E1F4F1C9AEBD4CA6E53375CB84A34C9B3222B5C0E91AB9E97",
     "minecraftMin":  "1.21.1",
     "minecraftMax":  "26.3",
-    "notes":  "Adds GET /version and revision metadata for independent Plugin updates. Gameplay and Lightning are unchanged."
+    "notes":  "Added Torpedo Rain and Random Teleport; Torpedo underwater/terrain collision support; fixed-radius Torpedo gameplay and block explosions."
 }
